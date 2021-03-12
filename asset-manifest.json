@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monsters/static/css/main.49aed1ae.chunk.css",
+    "main.js": "/monsters/static/js/main.a2cca8ff.chunk.js",
+    "main.js.map": "/monsters/static/js/main.a2cca8ff.chunk.js.map",
+    "runtime-main.js": "/monsters/static/js/runtime-main.aa4cf600.js",
+    "runtime-main.js.map": "/monsters/static/js/runtime-main.aa4cf600.js.map",
+    "static/js/2.b11ad93d.chunk.js": "/monsters/static/js/2.b11ad93d.chunk.js",
+    "static/js/2.b11ad93d.chunk.js.map": "/monsters/static/js/2.b11ad93d.chunk.js.map",
+    "static/js/3.94d70ae0.chunk.js": "/monsters/static/js/3.94d70ae0.chunk.js",
+    "static/js/3.94d70ae0.chunk.js.map": "/monsters/static/js/3.94d70ae0.chunk.js.map",
+    "index.html": "/monsters/index.html",
+    "static/css/main.49aed1ae.chunk.css.map": "/monsters/static/css/main.49aed1ae.chunk.css.map",
+    "static/js/2.b11ad93d.chunk.js.LICENSE.txt": "/monsters/static/js/2.b11ad93d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa4cf600.js",
+    "static/js/2.b11ad93d.chunk.js",
+    "static/css/main.49aed1ae.chunk.css",
+    "static/js/main.a2cca8ff.chunk.js"
+  ]
+}
