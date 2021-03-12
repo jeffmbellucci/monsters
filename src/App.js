@@ -11,8 +11,6 @@ class App extends Component {
       monsters: [],
       searchField: ''
     }
-
-    const that = this;
   }
 
   componentDidMount() {
